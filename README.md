@@ -21,7 +21,7 @@ O objetivo deste repositório é registrar minha evolução na linguagem, pratic
 - Encapsulamento
 - Modificadores de acesso
 - Membros estáticos
--  toString()
+- toString()
 
 ### Estruturas de dados
 - Vetores
@@ -41,3 +41,6 @@ java-estudos/
 │   ├── construtores-e-encapsulamento/
 │   ├── encapsulamento/
 │   ├── membros-estaticos/
+│   └── modificadores-de-acesso/
+│
+└── vetores/
