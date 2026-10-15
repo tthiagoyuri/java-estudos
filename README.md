@@ -43,4 +43,10 @@ java-estudos/
 │   ├── membros-estaticos/
 │   └── modificadores-de-acesso/
 │
-└── vetores/
+├──vetores/
+│  ├──exercicio
+│
+│
+├── listas/
+    ├── exercicio
+
